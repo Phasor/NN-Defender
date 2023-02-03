@@ -1,8 +1,8 @@
-# Sample Hardhat Project
+# NN Defender Token
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project is the smart contract for the Nautical Narwhals Game Studios Defender NFT series.
 
-Try running some of the following tasks:
+https://www.nngamestudios.com/
 
 ```shell
 npx hardhat help
