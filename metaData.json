@@ -1,0 +1,15 @@
+{
+  "description": "OG membership of Nautical Narwhals Game Studios",
+  "image": "ipfs://QmbHMsX4wb7CBUuLiLWVQok6DAF7odxnnCtt4eWUcxsbDU/defenderLetter.jpg", 
+  "name": "Nautical Narwhals Defender",
+  "attributes": [
+      {
+       "trait_type": "Generation", 
+          "value": "1.0"
+      }, 
+      {
+        "trait_type": "Status",
+        "value": "Defender"
+      } 
+  ]
+}
